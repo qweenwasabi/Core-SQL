@@ -3,7 +3,6 @@ Team name: Concerned-Partridge
 issueNumber: 178
 teamSize: 1
 title: Core SQL [Solo Study]
-createdAt: '2017-02-21T01:39:41Z'
 labels:
 - foundational
 published: true
@@ -32,7 +31,8 @@ Becoming a full stack web developer means that you need to be comfortable with w
 ## Specifications
 
 ### Day 1: SQL Basics & Advanced SQL Queries
-- [ ] Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
+- [x] Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
+      link to work: https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6593959472463872
 - [ ] Complete the [Advanced SQL queries course](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
 
 ### Day 2: Relational Queries
