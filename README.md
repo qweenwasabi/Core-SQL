@@ -33,8 +33,9 @@ Becoming a full stack web developer means that you need to be comfortable with w
 ### Day 1: SQL Basics & Advanced SQL Queries
 - [x] Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
       link to work: https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6593959472463872
-- [X] Complete the [Advanced SQL queries course](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
-
+- [X] Complete the [Advanced SQL queries
+ course](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
+        link to work:https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5632120907431936
 ### Day 2: Relational Queries
 - [X] Complete the [Relational Queries course](https://www.khanacademy.org/computing/computer-programming/sql#relational-queries-in-sql)
 link to work:https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/6202923151589376
@@ -44,21 +45,21 @@ link to work: https://www.khanacademy.org/computer-programming/spin-off-of-proje
 ### Day 3: Install Postgres and Complete Tutorials with psql
 - [X] Install Homebrew by following instructions listed [here](https://gist.github.com/punitrathore/ca32542fddd0d8b625aab610c35e4545)
 - [X] Install Postgres by following instructions listed [here](https://gist.github.com/punitrathore/ca32542fddd0d8b625aab610c35e4545#install-postgres)
-- [ ] Learn the `psql` command line tool by working through the following tutorials
-  - [ ] complete the tutorial for `createdb` [here](https://www.tutorialspoint.com/postgresql/postgresql_create_database.htm)
-  - [ ] complete the tutorial for selecting the database [here](https://www.tutorialspoint.com/postgresql/postgresql_select_database.htm)
-  - [ ] complete the tutorial for dropping the database [here](https://www.tutorialspoint.com/postgresql/postgresql_drop_database.htm)
-  - [ ] complete the tutorial for `create table` [here](https://www.tutorialspoint.com/postgresql/postgresql_create_table.htm)
-  - [ ] complete the tutorial for `drop table` [here](https://www.tutorialspoint.com/postgresql/postgresql_drop_table.htm)
-  - [ ] complete the tutorial for `schema` [here](https://www.tutorialspoint.com/postgresql/postgresql_schema.htm)
-  - [ ] complete the tutorial for `insert` [here](https://www.tutorialspoint.com/postgresql/postgresql_insert_query.htm)
-  - [ ] complete the tutorial for `select` [here](https://www.tutorialspoint.com/postgresql/postgresql_select_query.htm)
+- [X] Learn the `psql` command line tool by working through the following tutorials
+  - [X] complete the tutorial for `createdb` [here](https://www.tutorialspoint.com/postgresql/postgresql_create_database.htm)
+  - [[X] [X] complete the tutorial for selecting the database [here](https://www.tutorialspoint.com/postgresql/postgresql_select_database.htm)
+  - [X] complete the tutorial for dropping the database [here](https://www.tutorialspoint.com/postgresql/postgresql_drop_database.htm)
+  - [X] complete the tutorial for `create table` [here](https://www.tutorialspoint.com/postgresql/postgresql_create_table.htm)
+  - [X] complete the tutorial for `drop table` [here](https://www.tutorialspoint.com/postgresql/postgresql_drop_table.htm)
+  - [X] complete the tutorial for `schema` [here](https://www.tutorialspoint.com/postgresql/postgresql_schema.htm)
+  - [X] complete the tutorial for `insert` [here](https://www.tutorialspoint.com/postgresql/postgresql_insert_query.htm)
+  - [X] complete the tutorial for `select` [here](https://www.tutorialspoint.com/postgresql/postgresql_select_query.htm)
   - [ ] complete the tutorial for expressions [here](https://www.tutorialspoint.com/postgresql/postgresql_expressions.htm)
   - [ ] complete the tutorial for `where` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_where_clause.htm)
-  - [ ] complete the tutorial for `and` and `or` operators [here](https://www.tutorialspoint.com/postgresql/postgresql_and_or_clauses.htm)
-  - [ ] complete the tutorial for update queries [here](https://www.tutorialspoint.com/postgresql/postgresql_update_query.htm)
+  - [X] complete the tutorial for `and` and `or` operators [here](https://www.tutorialspoint.com/postgresql/postgresql_and_or_clauses.htm)
+  - [X] complete the tutorial for update queries [here](https://www.tutorialspoint.com/postgresql/postgresql_update_query.htm)
   - [ ] complete the tutorial for delete queries [here](https://www.tutorialspoint.com/postgresql/postgresql_delete_query.htm)
-  - [ ] complete the tutorial for the `like` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_like_clause.htm)
+  - [X] complete the tutorial for the `like` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_like_clause.htm)
   - [ ] complete the tutorial for the `limit` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_limit_clause.htm)
   - [ ] complete the tutorial for the `order by` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_order_by.htm)
   - [ ] complete the tutorial for the `group by` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_group_by.htm)
